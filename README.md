@@ -22,8 +22,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0002-add-two-numbers](https://github.com/imshiv1907-coder/Leetcode-/tree/Java/0002-add-two-numbers
-) | Medium |
+| [0002-add-two-numbers](https://github.com/imshiv1907-coder/Leetcode-/tree/Java/0002-add-two-numbers) | Medium |
 | [0019-remove-nth-node-from-end-of-list]() | Medium |
 | [0021-merge-two-sorted-lists]() | Easy |
 | [0092-reverse-linked-list-ii]() | Medium |
@@ -36,8 +35,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0002-add-two-numbers](https://github.com/imshiv1907-coder/Leetcode-/tree/Java/0002-add-two-numbers
-) | Medium |
+| [0002-add-two-numbers](https://github.com/imshiv1907-coder/Leetcode-/tree/Java/0002-add-two-numbers) | Medium |
 | [0021-merge-two-sorted-lists]() | Easy |
 | [0143-reorder-list]() | Medium |
 | [0203-remove-linked-list-elements]() | Easy |
@@ -46,8 +44,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0002-add-two-numbers](https://github.com/imshiv1907-coder/Leetcode-/tree/Java/0002-add-two-numbers
-) | Medium |
+| [0002-add-two-numbers](https://github.com/imshiv1907-coder/Leetcode-/tree/Java/0002-add-two-numbers) | Medium |
 | [0258-add-digits]() | Easy |
 | [0412-fizz-buzz]() | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards]() | Easy |
@@ -111,7 +108,7 @@ To improve problem-solving skills and prepare for coding interviews.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0001-two-sum](https://github.com/imshiv1907-coder/Leetcode/tree/Java/0001-two-sum) | Easy |
+| [0001-two-sum](https://github.com/imshiv1907-coder/Leetcode-/tree/Java/0001-two-sum) | Easy |
 | [0011-container-with-most-water](https://github.com/imshiv1907-coder/Leetcode-/tree/Java/0011-container-with-most-water) | Medium |
 | [0014-longest-common-prefix]() | Easy |
 | [0042-trapping-rain-water]() | Hard |
